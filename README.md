@@ -2,7 +2,7 @@
 
 I'm Elliot!
 
-**_Vice President of_ FRC Team 2976 | The Spartabots**
+**Vice President of FRC Team 2976 | The Spartabots**
 
 I love robots! 💕
 
