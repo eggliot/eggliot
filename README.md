@@ -6,6 +6,30 @@ I'm Elliot!
 
 I love robots! 💕
 
+
+
+---
+<details>
+ <summary>
+  <h1>🔻Projects:</h1>
+ </summary>
+
+</details>
+
+
+
+<details>
+ <summary>
+  <h1>✨Skills</h1>
+ </summary>
+
+
+> Comfortability 🟩🟨🟧
+
+
+</details>
+
+
 # Awards:
 <p align="left"> <a href="https://github.com/eggliot"><img src="https://github-profile-trophy.vercel.app/?username=eggliot&theme=discord" alt="eggliot" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eggliot&color=blueviolet" alt="eggliot" /> </p>
